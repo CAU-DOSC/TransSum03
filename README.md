@@ -3,6 +3,10 @@ OpenSourceSW Team Homework 01
 
 Translate KOR - “The Cathedral and the Bazaar”
 
+!! 팀 배정 후 바로 과제를 신청하는 줄 알고 이전에 해당 Repository에서 작업을 진행하였습니다. 해당 주소도 확인 바랍니다 !!
+
+https://github.com/kdwoo1217/OpenSourceSW
+
 ## [팀 구성]
 - 20132182 강동원(팀장)
 

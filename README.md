@@ -1,18 +1,27 @@
-TransSum03
-===========
+# OpenSourceSW
+OpenSourceSW Team Homework 01
 
-* The Cathedral and the Bazaar
-* Use Word or any text editor
-* File name must follow this format `Pages.*` like `1-4.docs`
+Translate KOR - “The Cathedral and the Bazaar”
 
-Progress
-========
+## [팀 구성]
+- 20132182 강동원(팀장)
 
-| Pages      | Name          | Progress  |
-| ---------- |:-------------:| ---------:|
-| 1 ~ 4      | Park Se Hyun  |       20% |
-| 5 ~ 8      |               |        0% |
-| 9 ~ 12     |               |        0% |
-| 13 ~ 16    |               |        0% |
-| 17 ~ 20    |               |        0% |
-| 21 ~ 23    |               |        0% |
+- 20124826 박상영
+
+- 20122132 권우성
+
+- 20132862 김현빈
+
+- 20132569 조성주
+
+## [역할]
+
+1쪽 ~ 5쪽 The Importance of Having Users 전 까지 - 박상영
+
+5쪽 The Importance of Having Users 부터 9쪽 How Many Eyeballs Tame Complexity 전 까지 - 권우성
+
+9쪽 How Many Eyeballs Tame Complexity 부터 13쪽 Popclient becomes Fetchmail 전 까지 - 강동원
+
+13쪽 Popclient becomes Fetchmail 부터 18쪽 Necessary Preconditions for the Bazaar Style 전 까지 - 김현빈
+
+18쪽 Necessary Preconditions for 부터 마지막(23쪽) 까지 - 조성주

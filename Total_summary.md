@@ -1,6 +1,6 @@
 # 성당과 시장
 
-Eric Steven Raymond
+**Eric Steven Raymond**
 
 **저작권**: 문서의 복사, 배포, 수정에 대한 권한은 Open Publication License 2.0에 따릅니다.
 
